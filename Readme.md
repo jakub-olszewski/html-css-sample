@@ -1,10 +1,10 @@
-#Install
+## Install
 
 git
 sourcetree
 visual studio code
 
-#Download
+## Download
 
 git clone https://github.com/jakub-olszewski/html-css-sample.git
 git status
@@ -14,10 +14,10 @@ git config --global user.name "jakub-olszewski"
 git commit -m "Init commit"
 git push -u origin master
 
-#Git tutorial 
+## Git tutorial 
 
 https://www.youtube.com/watch?v=5HLst694D_Y
 
-#External links example
+## External links example
 https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_examples_modal_login
 https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_blog&stacked=h
