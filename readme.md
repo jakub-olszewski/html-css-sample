@@ -7,6 +7,12 @@ visual studio code
 #Download
 
 git clone https://github.com/jakub-olszewski/html-css-sample.git
+git status
+git add -A
+git config --global user.email "j.b.olszewski@gmail.com"
+git config --global user.name "jakub-olszewski"
+git commit -m "Init commit"
+git push -u origin master
 
 #Git tutorial 
 
