@@ -1,0 +1,29 @@
+{
+  "name": "html-css-sample",
+  "version": "1.0.0",
+  "description": "<a href=\"https://git-for-windows.github.io/\">Git</a><br />\r <a href=\"https://desktop.github.com/\">GitHub Desktop Client</a><br />\r <a href=\"https://code.visualstudio.com/\">Visual Studio Code</a><br />",
+  "main": "index.js",
+  "dependencies": {
+    "beautify-css": "^1.0.0",
+    "js-beautify": "^1.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakub-olszewski/html-css-sample.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "sample"
+  ],
+  "author": "Jakub Olszewski",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jakub-olszewski/html-css-sample/issues"
+  },
+  "homepage": "https://github.com/jakub-olszewski/html-css-sample#readme"
+}

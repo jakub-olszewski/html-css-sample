@@ -7,6 +7,8 @@
 <a href="https://code.visualstudio.com/">Visual Studio Code</a><br />
 <a href="https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css">Visual Studio Code - HTML, CSS support</a><br />
 
+<a href="https://nodejs.org/en/download/">Node.js</a><br />
+
 
 ## Download
 ```
@@ -18,6 +20,15 @@ git config --global user.name "jakub-olszewski"
 git commit -m "Init commit"
 git push -u origin master
 ```
+
+## Node.js install
+```
+set PATH=%PATH%;"C:\Program Files\nodejs\"
+
+npm init
+npm install js-beautify
+```
+
 ## Git tutorial 
 
 https://www.youtube.com/watch?v=5HLst694D_Y<br />
