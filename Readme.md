@@ -1,8 +1,12 @@
  ## Install
 
 <a href="https://git-for-windows.github.io/">Git</a><br />
+
 <a href="https://desktop.github.com/">GitHub Desktop Client</a><br />
+
 <a href="https://code.visualstudio.com/">Visual Studio Code</a><br />
+<a href="https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css">Visual Studio Code - HTML, CSS support</a><br />
+
 
 ## Download
 ```
