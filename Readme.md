@@ -5,7 +5,7 @@ sourcetree<br />
 visual studio code<br />
 
 ## Download
-
+```
 git clone https://github.com/jakub-olszewski/html-css-sample.git<br />
 git status <br />
 git add -A <br />
@@ -13,7 +13,7 @@ git config --global user.email "j.b.olszewski@gmail.com" <br />
 git config --global user.name "jakub-olszewski" <br />
 git commit -m "Init commit"<br />
 git push -u origin master<br />
-
+```
 ## Git tutorial 
 
 https://www.youtube.com/watch?v=5HLst694D_Y<br />
