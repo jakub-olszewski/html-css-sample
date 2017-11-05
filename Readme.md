@@ -1,8 +1,8 @@
  ## Install
 
 <a href="https://git-for-windows.github.io/">Git</a><br />
-<a href="https://git-for-windows.github.io/">SourceTree</a><br />
-<a href="https://git-for-windows.github.io/">Visual Studio Code</a><br />
+<a href="https://www.sourcetreeapp.com/">SourceTree</a><br />
+<a href="https://code.visualstudio.com/">Visual Studio Code</a><br />
 
 ## Download
 ```
