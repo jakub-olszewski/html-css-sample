@@ -41,3 +41,4 @@ https://www.w3schools.com/html/html_examples.asp<br />
 http://logic.amu.edu.pl/images/f/f1/%C5%9Aci%C4%85ga_HTML.pdf<br />
 https://www.mimuw.edu.pl/~czarnik/zajecia/ti/html.html<br />
 https://www.w3schools.com/css/
+http://matematyka.opracowania.pl/gimnazjum/uk%C5%82ad_wsp%C3%B3%C5%82rz%C4%99dnych_wprowadzenie/
