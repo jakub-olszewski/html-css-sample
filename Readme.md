@@ -40,3 +40,4 @@ https://www.w3schools.com/html/html_intro.asp<br />
 https://www.w3schools.com/html/html_examples.asp<br />
 http://logic.amu.edu.pl/images/f/f1/%C5%9Aci%C4%85ga_HTML.pdf<br />
 https://www.mimuw.edu.pl/~czarnik/zajecia/ti/html.html<br />
+https://www.w3schools.com/css/
