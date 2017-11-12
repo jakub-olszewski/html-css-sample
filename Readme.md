@@ -19,6 +19,7 @@ git config --global user.email "j.b.olszewski@gmail.com"
 git config --global user.name "jakub-olszewski" 
 git commit -m "Init commit"
 git push -u origin master
+git config credential.helper "" //remove stored password
 ```
 
 ## Node.js install
